@@ -17,16 +17,17 @@
         - [x] 직접 제작한 Github 리포지토리에 main, dev 브랜치를 만듭니다.
         - [x] dev 브랜치에서 main 브랜치로 Pull Request를 최소 1회 시도합니다.
 
-- [ ] Create React App을 활용해 프론트엔드 개발에 유용한 프레임워크를 설치해봅니다.
+- [x] Create React App을 활용해 프론트엔드 개발에 유용한 프레임워크를 설치해봅니다.
     - [x] Redux
       > npm install @reduxjs/toolkit react-redux
 
     - [x] Styled-Component
       > npm install --save styled-components
 
-    - [ ] ESLint, Prettier
+    - [x] ESLint, Prettier
       > npm install -D eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-react eslint-plugin-react-hooks eslint-plugin-prettier eslint-config-prettier
 
 - [x] npm run start 가 에러없이 시작하는 코드를 원격 main 브랜치로 push 합니다.
 
-- [ ] 아래와 같이 npm run start 로 리액트 개발 서버가 켜져있는 브라우저 화면을 캡쳐합니다.
+- [x] 아래와 같이 npm run start 로 리액트 개발 서버가 켜져있는 브라우저 화면을 캡쳐합니다.
+<img src="https://user-images.githubusercontent.com/107869548/197155890-22bbb99d-77a3-4368-a377-4639fa13b5dd.png">
