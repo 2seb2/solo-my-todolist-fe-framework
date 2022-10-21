@@ -30,4 +30,4 @@
 - [x] npm run start 가 에러없이 시작하는 코드를 원격 main 브랜치로 push 합니다.
 
 - [x] 아래와 같이 npm run start 로 리액트 개발 서버가 켜져있는 브라우저 화면을 캡쳐합니다.
-<img src="https://user-images.githubusercontent.com/107869548/197155890-22bbb99d-77a3-4368-a377-4639fa13b5dd.png">
+<img src="https://user-images.githubusercontent.com/107869548/197157207-179e82ba-e661-4562-bb19-a761d32f51f9.png">
